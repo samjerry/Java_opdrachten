@@ -1,0 +1,6 @@
+public class Vodka extends Alcohol{
+  public Vodka(){
+  Vodka vodkatje = new Vodka();
+  vodkatje.drink();
+  System.out.println("The vodka is empty");
+}
